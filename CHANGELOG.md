@@ -51,7 +51,7 @@ Important changes since 0.13:
   <-trans
   <-isStrictTotalOrder
   ```
-  
+
 * Added `⊓-idem` and `⊔-idem` to `Data.Nat.Properties`
 
 
